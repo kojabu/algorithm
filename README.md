@@ -28,6 +28,6 @@ Each algorithm or data structure has its own dedicated folder containing:
   Data structures (e.g., Stacks, Queues, Linked Lists, Trees)
   Dynamic programming and other advanced techniques (coming soon!)
 
-Contributing
+# Contributing
 
-This repository will be continuously updated, and feedback is welcome! If you have suggestions or improvements, feel free to create an issue or a pull request.
+This repository will be continuously updated, and feedback is welcome! 
