@@ -30,7 +30,6 @@ Each algorithm or data structure has its own dedicated folder containing:
 - Dynamic programming and other advanced techniques (coming soon!)
 
 ## Contributing
-![81HwgKQ39lS _SL1500_](https://github.com/user-attachments/assets/ffdbe5c1-d685-46d2-85d8-9f91d012092a)
 
 This repository will be continuously updated, and feedback is welcome!  
 
