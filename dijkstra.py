@@ -1,3 +1,9 @@
+"""
+    It is Dijkstra's Algorithm
+    The Time Complexity of Dijkstra's Algorithm: O((V + E) * log(V)) with a priority queue (e.g., a min-heap)
+    Dijkstra's Algorithm is a fundamental shortest-path algorithm.
+    It finds the shortest path from a starting node to all other nodes in a weighted graph.
+"""
 
 graph = {}
 graph['start'] = {}
